@@ -2,7 +2,7 @@
 layout: post
 title:  "test"
 date:   2023-03-15
-categories: jekyll update
+categories: Home
 ---
 test
 
